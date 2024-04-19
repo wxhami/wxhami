@@ -2,7 +2,7 @@
 ### Novice .net developer from Russia
 ### Contacts
 
-- [Telegram](https://t.me/wxhami)
+- [Telegram](https://t.me/wxham)
 - [Email](mailto:d18102002@mail.ru)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wxhami&theme=aura_dark)
