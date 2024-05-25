@@ -1,6 +1,8 @@
 # Hi there, I'm Diana <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 ### Novice .net developer from Russia
-### Contacts
+### My top projects:
+https://github.com/KrevetkiDev/rps-bot
+#### Contacts
 
 - [Telegram](https://t.me/wxham)
 - [Email](mailto:d18102002@mail.ru)
