@@ -2,7 +2,9 @@
 ### Novice .net developer from Russia
 ### My top projects:
 https://github.com/KrevetkiDev/todo-bot
+
 https://github.com/KrevetkiDev/rps-bot
+
 #### Contacts
 
 - [Telegram](https://t.me/wxham)
