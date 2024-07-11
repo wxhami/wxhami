@@ -13,3 +13,9 @@ https://github.com/KrevetkiDev/rps-bot
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wxhami&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wxhami&theme=aura_dark)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wxhami&theme=aura_dark)
+
+<p>
+  <a href="https://github.com/vmedvedevpro">
+    <img src="https://komarev.com/ghpvc/?username=vmedvedevpro&color=blue&style=flat" />
+  </a>
+</p>
