@@ -15,7 +15,7 @@ https://github.com/KrevetkiDev/rps-bot
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wxhami&theme=aura_dark)
 
 <p>
-  <a href="https://github.com/vmedvedevpro">
-    <img src="https://komarev.com/ghpvc/?username=vmedvedevpro&color=blue&style=flat" />
+  <a href="https://github.com/wxhami">
+    <img src="https://komarev.com/ghpvc/?username=wxhami&color=blue&style=flat" />
   </a>
 </p>
