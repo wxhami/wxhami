@@ -5,6 +5,8 @@ https://github.com/KrevetkiDev/todo-bot
 
 https://github.com/KrevetkiDev/rps-bot
 
+https://github.com/wxhami/GeometryTask
+
 #### Contacts
 
 - [Telegram](https://t.me/wxham)
