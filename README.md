@@ -3,7 +3,7 @@
 ### My top projects:
 https://github.com/KrevetkiDev/todo-bot
 
-https://github.com/KrevetkiDev/rps-bot
+https://github.com/wxhami/PixlParkTestTask
 
 https://github.com/wxhami/GeometryTask
 
